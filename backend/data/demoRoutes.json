@@ -1,0 +1,107 @@
+[
+  {
+    "id": "route1",
+    "name": "Nungambakkam Railway Station",
+    "description": "Station View Rd / Station surroundings",
+    "coordinates": [
+      [13.0667, 80.2417],
+      [13.0665, 80.2420],
+      [13.0663, 80.2423]
+    ],
+    "infrastructure": {
+      "policeStation": 0,
+      "policeBooth": 1,
+      "cctv": 3,
+      "streetlight": 4,
+      "atm": 2
+    },
+    "estimatedTime": "8 mins",
+    "distance": "1.2 km",
+    "initialScore": 65,
+    "preGeneratedExplanation": "**Gemini 3 Safety Analysis for Nungambakkam Railway Station**\nSafety Score: 65/100\n\nAssessment: Moderate safety route with basic security infrastructure. Railway stations typically have surveillance but can be crowded during peak hours.\n\nKey Factors:\n• Police Presence: Booth available near station\n• Surveillance: 3 CCTV cameras provide partial coverage\n• Lighting: 4 streetlights - moderately lit\n• ATMs: 2 banks/ATMs provide commercial activity\n\nRecommendations:\n1. Travel during daylight hours (before 8 PM)\n2. Stay in well-lit station areas\n3. Avoid isolated platform sections\n4. Share live location while traveling\n\n*Powered by Gemini 3 API (Pre-generated for demo)*"
+  },
+  {
+    "id": "route2",
+    "name": "Nungambakkam Police Station Route",
+    "description": "Valluvar Kottam High Road",
+    "coordinates": [
+      [13.0650, 80.2400],
+      [13.0647, 80.2395],
+      [13.0643, 80.2390]
+    ],
+    "infrastructure": {
+      "policeStation": 1,
+      "policeBooth": 2,
+      "cctv": 4,
+      "streetlight": 5,
+      "atm": 1
+    },
+    "estimatedTime": "10 mins",
+    "distance": "1.5 km",
+    "initialScore": 82,
+    "preGeneratedExplanation": "**Gemini 3 Safety Analysis for Police Station Route**\nSafety Score: 82/100 ✅\n\nAssessment: High safety route with excellent police presence. This is one of the safest routes in Nungambakkam area.\n\nKey Factors:\n• Police Presence: 1 station + 2 booths = maximum security\n• Surveillance: 4 CCTV cameras for comprehensive coverage\n• Lighting: 5 streetlights ensure well-lit path\n• Route: Main road with continuous traffic\n\nRecommendations:\n1. Recommended route for night travel\n2. Utilize police station as safety checkpoint\n3. Standard precautions sufficient\n4. Well-suited for solo travelers\n\n*Powered by Gemini 3 API (Pre-generated for demo)*"
+  },
+  {
+    "id": "route3",
+    "name": "Loyola College Main Gate",
+    "description": "Sterling Road area",
+    "coordinates": [
+      [13.0670, 80.2430],
+      [13.0675, 80.2435],
+      [13.0680, 80.2440]
+    ],
+    "infrastructure": {
+      "policeStation": 0,
+      "policeBooth": 1,
+      "cctv": 2,
+      "streetlight": 3,
+      "atm": 3
+    },
+    "estimatedTime": "7 mins",
+    "distance": "1.0 km",
+    "initialScore": 58,
+    "preGeneratedExplanation": "**Gemini 3 Safety Analysis for Loyola College Area**\nSafety Score: 58/100\n\nAssessment: Moderate safety with educational institution presence. College areas can be safe during day but quieter at night.\n\nKey Factors:\n• Police Presence: Limited to 1 booth\n• Surveillance: 2 CCTV cameras - basic coverage\n• Lighting: 3 streetlights - some dark spots\n• ATMs: 3 banking points provide some activity\n\nRecommendations:\n1. Travel before 9 PM\n2. Stay near college gate areas\n3. Avoid isolated back roads\n4. Use campus security if available\n\n*Powered by Gemini 3 API (Pre-generated for demo)*"
+  },
+  {
+    "id": "route4",
+    "name": "Valluvar Kottam Monument",
+    "description": "Valluvar Kottam High Road stretch",
+    "coordinates": [
+      [13.0630, 80.2380],
+      [13.0635, 80.2385],
+      [13.0640, 80.2390]
+    ],
+    "infrastructure": {
+      "policeStation": 0,
+      "policeBooth": 0,
+      "cctv": 1,
+      "streetlight": 2,
+      "atm": 1
+    },
+    "estimatedTime": "5 mins",
+    "distance": "0.8 km",
+    "initialScore": 32,
+    "preGeneratedExplanation": "**Gemini 3 Safety Analysis for Valluvar Kottam**\nSafety Score: 32/100 ⚠️\n\nAssessment: High risk route with minimal safety infrastructure. Monument areas can be isolated after hours.\n\nKey Factors:\n• Police Presence: None detected\n• Surveillance: Only 1 CCTV camera\n• Lighting: 2 streetlights - poorly lit\n• Activity: Limited commercial presence\n\nCritical Recommendations:\n1. AVOID after dark (6 PM onwards)\n2. Travel ONLY with companion\n3. Use alternative routes with better lighting\n4. Share live location continuously\n5. Consider taxi/auto instead of walking\n\n*Powered by Gemini 3 API (Pre-generated for demo)*"
+  },
+  {
+    "id": "route5",
+    "name": "Nungambakkam High Road Commercial",
+    "description": "College Lane ATMs & banks cluster",
+    "coordinates": [
+      [13.0660, 80.2420],
+      [13.0665, 80.2425],
+      [13.0670, 80.2430]
+    ],
+    "infrastructure": {
+      "policeStation": 0,
+      "policeBooth": 1,
+      "cctv": 5,
+      "streetlight": 6,
+      "atm": 5
+    },
+    "estimatedTime": "6 mins",
+    "distance": "0.9 km",
+    "initialScore": 71,
+    "preGeneratedExplanation": "**Gemini 3 Safety Analysis for Commercial Area**\nSafety Score: 71/100\n\nAssessment: Good safety with commercial activity. Bank/ATM clusters provide natural surveillance through customer traffic.\n\nKey Factors:\n• Police Presence: 1 security booth\n• Surveillance: 5 CCTV cameras - excellent coverage\n• Lighting: 6 streetlights - well-lit commercial stretch\n• Activity: High with 5 ATMs/banks\n\nRecommendations:\n1. Safe until 10 PM due to commercial activity\n2. Utilize well-lit ATM areas\n3. Natural surveillance from shopkeepers\n4. Avoid late hours when shops close\n\n*Powered by Gemini 3 API (Pre-generated for demo)*"
+  }
+]

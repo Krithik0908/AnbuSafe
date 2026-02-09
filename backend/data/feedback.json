@@ -1,0 +1,40 @@
+[
+  {
+    "id": "sample1",
+    "routeId": "route4",
+    "rating": -2,
+    "issues": [
+      "no_streetlight",
+      "isolated_area"
+    ],
+    "comments": "Very poorly lit at night, felt unsafe walking alone",
+    "timestamp": "2024-01-10T20:30:00.000Z"
+  },
+  {
+    "id": "sample2",
+    "routeId": "route2",
+    "rating": 1,
+    "issues": [],
+    "comments": "Police station visible throughout the route, well-lit",
+    "timestamp": "2024-01-12T18:45:00.000Z"
+  },
+  {
+    "id": "sample3",
+    "routeId": "route5",
+    "rating": 0,
+    "issues": [
+      "low_crowd"
+    ],
+    "comments": "Good infrastructure but few people after 9 PM",
+    "timestamp": "2024-01-15T21:15:00.000Z"
+  },
+  {
+    "id": "1770457813418",
+    "routeId": "route1",
+    "rating": 1,
+    "issues": [],
+    "comments": "",
+    "timestamp": "2026-02-07T09:50:13.418Z",
+    "ipHash": "anonymous"
+  }
+]
